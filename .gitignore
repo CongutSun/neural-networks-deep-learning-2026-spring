@@ -1,0 +1,13 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated or temporary files
+*.tmp
+*.bak
+~$*
+
+# Keep source course PDFs local unless explicit permission is available.
+*.pdf
